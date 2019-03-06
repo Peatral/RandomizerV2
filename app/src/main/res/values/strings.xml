@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Randomizer V2</string>
+
+    <string name="tab_text_neutral">Neutral</string>
+    <string name="tab_text_all">All</string>
+    <string name="tab_text_favs">Favorites</string>
+    <string name="tab_text_blacklist">Black List</string>
+
+    <string name="cup">Cup</string>
+    <string name="type">Type</string>
+    <string name="state">State</string>
+
+    <string name="state_0">Black List</string>
+    <string name="state_1">Neutral</string>
+    <string name="state_2">Favorite</string>
+
+    <!-- Generated Track/Cup/Type Names -->
+    <string name="type_newtracks">New Tracks</string>
+
+    <string name="cup_mushroomcup">Mushroom Cup</string>
+    <string name="track_mariokartstadium">Mario Kart Stadium</string>
+    <string name="track_waterpark">Water Park</string>
+    <string name="track_sweetsweetcanyon">Sweet Sweet Canyon</string>
+    <string name="track_thwompruins">Thwomp Ruins</string>
+
+    <string name="cup_flowercup">Flower Cup</string>
+    <string name="track_mariocircuit">Mario Circuit</string>
+    <string name="track_toadharbor">Toad Harbor</string>
+    <string name="track_twistedmansion">Twisted Mansion</string>
+    <string name="track_shyguyfalls">Shy Guy Falls</string>
+
+    <string name="cup_starcup">Star Cup</string>
+    <string name="track_sunshineairport">Sunshine Airport</string>
+    <string name="track_dolphinshoals">Dolphin Shoals</string>
+    <string name="track_electrodrome">Electrodrome</string>
+    <string name="track_mountwario">Mount Wario</string>
+
+    <string name="cup_specialcup">Special Cup</string>
+    <string name="track_cloudtopcruise">Cloudtop Cruise</string>
+    <string name="track_bonedrydunes">Bone Dry Dunes</string>
+    <string name="track_bowserscastle">Bowser\'s Castle</string>
+    <string name="track_rainbowroad">Rainbow Road</string>
+
+    <string name="type_retrotracks">Retro Tracks</string>
+
+    <string name="cup_shellcup">Shell Cup</string>
+    <string name="track_wiimoomoomeadows">Wii Moo Moo Meadows</string>
+    <string name="track_gbamariocircuit">GBA Mario Circuit</string>
+    <string name="track_dscheepcheepbeach">DS Cheep Cheep Beach</string>
+    <string name="track_n64toadsturnpike">N64 Toad\'s Turnpike</string>
+
+    <string name="cup_bananacup">Banana Cup</string>
+    <string name="track_gcndrydrydesert">GCN Dry Dry Desert</string>
+    <string name="track_snesdonutplains3">SNES Donut Plains 3</string>
+    <string name="track_n64royalraceway">N64 Royal Raceway</string>
+    <string name="track_3dsdkjungle">3DS DK Jungle</string>
+
+    <string name="cup_leafcup">Leaf Cup</string>
+    <string name="track_dswariostadium">DS Wario Stadium</string>
+    <string name="track_gcnsherbetland">GCN Sherbet Land</string>
+    <string name="track_3dsmusicpark">3DS Music Park</string>
+    <string name="track_n64yoshivalley">N64 Yoshi Valley</string>
+
+    <string name="cup_lightningcup">Lightning Cup</string>
+    <string name="track_dsticktockclock">DS Tick Tock Clock</string>
+    <string name="track_3dspiranhaplantslide">3DS Piranha Plant Slide</string>
+    <string name="track_wiigrumblevolcano">Wii Grumble Volcano</string>
+    <string name="track_n64rainbowroad">N64 Rainbow Road</string>
+
+    <string name="type_dlctracks">DLC Tracks</string>
+
+    <string name="cup_eggcup">Egg Cup</string>
+    <string name="track_gcnyoshiscircuit">GCN Yoshi\'s Circuit</string>
+    <string name="track_excitebikearena">Excitebike Arena</string>
+    <string name="track_dragondriftway">Dragon Driftway</string>
+    <string name="track_mutecity">Mute City</string>
+
+    <string name="cup_triforcecup">Triforce Cup</string>
+    <string name="track_wiiwariosgoldmine">Wii Wario\'s Gold Mine</string>
+    <string name="track_snesrainbowroad">SNES Rainbow Road</string>
+    <string name="track_iceiceoutpost">Ice Ice Outpost</string>
+    <string name="track_hyrulecircuit">Hyrule Circuit</string>
+
+    <string name="cup_bellcup">Bell Cup</string>
+    <string name="track_3dsneobowsercity">3DS Neo Bowser City</string>
+    <string name="track_gbaribbonroad">GBA Ribbon Road</string>
+    <string name="track_superbellsubway">Super Bell Subway</string>
+    <string name="track_bigblue">Big Blue</string>
+
+    <string name="cup_crossingcup">Crossing Cup</string>
+    <string name="track_gcnbabypark">GCN Baby Park</string>
+    <string name="track_gbacheeseland">GBA Cheese Land</string>
+    <string name="track_wildwoods">Wild Woods</string>
+    <string name="track_animalcrossing">Animal Crossing</string>
+
+</resources>
